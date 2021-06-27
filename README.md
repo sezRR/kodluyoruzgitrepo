@@ -6,16 +6,18 @@ Kodluyoruz Eğitimi kapsamında açtığım bir repo. İçerisinde bir adet READ
 # Installation
 Öncelikle projeyi clonelayın.
 
-> git clone https://github.com/sezRR/kodluyoruzgitrepo.git
-
+```bat
+git clone https://github.com/sezRR/kodluyoruzgitrepo.git
+```
 <br/>
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-> cd kodluyoruzgitrepo
-> code .
-
+```bat
+cd kodluyoruzgitrepo
+code .
+```
 <br/>
 
 # Contributing
