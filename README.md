@@ -14,7 +14,6 @@ Kodluyoruz Eğitimi kapsamında açtığım bir repo. İçerisinde bir adet READ
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 > cd kodluyoruzgitrepo
-<br/>
 > code .
 
 <br/>
